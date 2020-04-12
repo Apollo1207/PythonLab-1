@@ -1,2 +1,1 @@
-PythonLabs - [1]
-PythonLabs - [2]
+PythonLab - [10]
