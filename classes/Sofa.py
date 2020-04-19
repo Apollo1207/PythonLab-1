@@ -21,7 +21,7 @@ class Sofa:
 
     @classmethod
     def main(cls):
-        obj_1 = Sofa(500)
+        obj_1 = Sofa()
         obj_2 = Sofa(1000, 1500)
         obj_3 = Sofa(2000, 2500, "purple", "Lusso")
         objects = [obj_1, obj_2, obj_3]
